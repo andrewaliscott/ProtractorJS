@@ -1,1 +1,3 @@
-This project is about how to use reportin in our test cases. I used protractor beautiful reporter. I did an example for Jasmine Data Driven 
+This project is about how to use reportin in our test cases. I used protractor beautiful reporter. I did an example for Jasmine Data Driven. Besides there is simple example of cerating Framework
+
+You have to install this dependency from http://www.npmjs.com
