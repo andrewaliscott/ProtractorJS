@@ -1,0 +1,1 @@
+This project is about how to use reportin in our test cases. I used protractor beautiful reporter. I did an example for Jasmine Data Driven 
